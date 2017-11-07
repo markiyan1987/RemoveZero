@@ -1,0 +1,9 @@
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.exe.config
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.exe
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.pdb
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.Form1.resources
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.exe
+c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.pdb
