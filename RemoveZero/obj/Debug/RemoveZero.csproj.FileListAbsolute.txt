@@ -7,3 +7,12 @@ c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\De
 c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.csproj.GenerateResource.Cache
 c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.exe
 c:\users\user\documents\visual studio 2015\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.pdb
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.exe.config
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.exe
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.pdb
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.exe
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\bin\Debug\RemoveZero.pdb
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.csprojResolveAssemblyReference.cache
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.Form1.resources
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.Properties.Resources.resources
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Debug\RemoveZero.csproj.GenerateResource.Cache

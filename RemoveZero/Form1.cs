@@ -25,6 +25,7 @@ namespace RemoveZero
         {
             if(openFileDialog1.ShowDialog() == DialogResult.OK)
             {
+                progressBar1.Maximum = openFileDialog1.FileNames.Length;
                 foreach (string fName in openFileDialog1.FileNames)
                 {
                     fileName = fName;
@@ -40,6 +41,8 @@ namespace RemoveZero
                         ToString());                    
                     doc.Save(fileName);
                     textBox1.Text += (++i).ToString() + ".  " + fileName + " compleet" + Environment.NewLine;
+                    progressBar1.Value++;
+                    
                 }
                 textBox1.Text += "Total: " + i.ToString();
             }

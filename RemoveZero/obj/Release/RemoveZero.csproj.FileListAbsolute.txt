@@ -14,3 +14,4 @@ C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\bi
 C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Release\RemoveZero.Form1.resources
 C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Release\RemoveZero.Properties.Resources.resources
 C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Release\RemoveZero.csproj.GenerateResource.Cache
+C:\Users\Markiyan\Documents\Visual Studio 2017\Projects\RemoveZero\RemoveZero\obj\Release\RemoveZero.csprojResolveAssemblyReference.cache
